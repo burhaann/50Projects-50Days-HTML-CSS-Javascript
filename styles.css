@@ -4,11 +4,13 @@ body {
     align-items: center;
     gap: 10px; /* Adjust the gap between items as needed */
     background-color: #220e38;
+    font-family: 'Trebuchet MS', sans-serif;
+
 }
 
 div {
     text-align: center;
-    width: 450px;
+    width: 400px;
 }
 
 h2, h1, p{
